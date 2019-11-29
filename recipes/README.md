@@ -40,11 +40,9 @@ Ilyen formában vannak a receptek:
     "total_time": 60
 }
 ```
-Tisztítás:
-- A hozzávalókat fel keée oszani mennyit és mi-re
-- Vannak speciális karakterek a hozzávalóknál, amit meg kellene javítani
 
 ## data preparation
+### Összetevők
 1) Ahhoz, hogy az összetevőkből a recepet meg tudjuk találni, szükség van egy 'ismert összetevők' listára.
 Pl:
 ```
@@ -88,6 +86,21 @@ RECEPT                  garlic peppers cheese  ....
 ---------------------------------------------------------
 Enchiladas Verdes       1       1       1       ...
 Más recept              0       1       0       ...
+```
+Ezzel struktúrával már tanítható lenne
+
+### Recept adatbázis
+Az eredeti recept adatbázisban láthatóan több helyen (jellemzően a mennyiségeknél) az unicode használat miatt kódok vannak. Ezeket nice-to-have lenne javítani.
+Ez azért kellene, mert terv szerint visszaküljük a recepet valamilyen formában (pl. email) ami nem olyan szép, ha ilyet tartalmaz
+
+u00bc
+Tehát pl::
+```
+        "2 \u00bc pounds small green tomatillos, husks removed",
+```
+helyett
+```
+        "2 1/4 pounds small green tomatillos, husks removed",
 ```
 
 
