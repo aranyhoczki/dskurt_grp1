@@ -1,20 +1,20 @@
 # Receptek
 
-## allrecipes.com
+## forrás adatok
+
+### allrecipes.com
 Egy szkript segítségével le scraper-eltem a recepteket.
 
 A kimeneti forma ndjson (= egy sor egy json rekord)
 
-## szkript
+### szkript
 
 A szkript: get_recipies.py
 
 Kell hozzá:
 pip install ndjson, wget, recipe_scrapers
 
-
-
-## ndjson 
+### kiment : ndjson 
 Ilyen formában vannak a receptek:
 ```
 {
