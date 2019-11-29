@@ -43,3 +43,55 @@ Ilyen formában vannak a receptek:
 Tisztítás:
 - A hozzávalókat fel keée oszani mennyit és mi-re
 - Vannak speciális karakterek a hozzávalóknál, amit meg kellene javítani
+
+## data preparation
+1) Ahhoz, hogy az összetevőkből a recepet meg tudjuk találni, szükség van egy 'ismert összetevők' listára.
+Pl:
+```
+ismert összetevők = ['peppers', 'garlic', 'oil', 'vegetable oil', 'water' ... ]
+```
+Itt majd érdekes lesz az 'oil' és 'vegetable oil' kérdése, de ezt majd az összetevők keresésében oldjuk meg
+
+2) Az ismert összetevők előfordulását fogjuk keresni a recept összetevők szövegeiben.
+Tehát 
+```
+{
+...
+    "ingredients": [
+        "2 cloves garlic",
+        "3 serrano peppers",
+        "1 cup grated cotija cheese"
+    ],
+    "title": "Enchiladas Verdes",
+    ...
+}
+```
+Ebből annak kellene kiesnie, hogy
+```
+{
+"Enchiladas Verdes" : ['garlic', 'peppers', 'cheese']
+...
+}
+```
+Ezzel meglenne, hogy milyen recept milyen ismert összetevőket tartalmaz
+Itt figyelni kellene, hogy:
+ha 'vegetable oil' -t  tartalmaz egy összetevő, akkor ne legyen 'oil' + 'vegetable oil' is benne.
+
+3) Az elemzés szerintem Osztályozással történne.
+Célváltozó: recept
+Magyarázó válzozók: összetevők
+
+Hgy tanítható legyen, dummy változókat kellene létrehozni az összetevőkből
+Tehát pl::
+```
+RECEPT                  garlic peppers cheese  ....
+---------------------------------------------------------
+Enchiladas Verdes       1       1       1       ...
+Más recept              0       1       0       ...
+```
+
+
+
+
+
+
