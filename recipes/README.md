@@ -75,19 +75,9 @@ Ezzel meglenne, hogy milyen recept milyen ismert összetevőket tartalmaz
 Itt figyelni kellene, hogy:
 ha 'vegetable oil' -t  tartalmaz egy összetevő, akkor ne legyen 'oil' + 'vegetable oil' is benne.
 
-3) Az elemzés szerintem Osztályozással történne.
-Célváltozó: recept
-Magyarázó válzozók: összetevők
+3) Az ajánló motor az alap összetevők alapján kikeresi azokat a recepteket, amelyekben a legtöbb összetevő megtalálható
+...
 
-Hgy tanítható legyen, dummy változókat kellene létrehozni az összetevőkből
-Tehát pl::
-```
-RECEPT                  garlic peppers cheese  ....
----------------------------------------------------------
-Enchiladas Verdes       1       1       1       ...
-Más recept              0       1       0       ...
-```
-Ezzel struktúrával már tanítható lenne
 
 ### Recept adatbázis
 Az eredeti recept adatbázisban láthatóan több helyen (jellemzően a mennyiségeknél) az unicode használat miatt kódok vannak. Ezeket nice-to-have lenne javítani.
