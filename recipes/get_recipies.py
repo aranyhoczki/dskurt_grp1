@@ -14,8 +14,9 @@ cuisine_tuple = [("https://www.allrecipes.com/recipes/1470/world-cuisine/latin-a
                      ("https://www.allrecipes.com/recipes/702/world-cuisine/asian/thai/", "thai"),
                      ("https://www.allrecipes.com/recipes/695/world-cuisine/asian/chinese/", "chinese")]
 
-cuisine_tuple1 = [("https://www.allrecipes.com/recipes/1470/world-cuisine/latin-american/mexican/authentic/", "mexican"),
-                     ]
+cuisine_tuple = [ ("https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/", "italian"),
+                     ("https://www.allrecipes.com/recipes/702/world-cuisine/asian/thai/", "thai"),
+                     ("https://www.allrecipes.com/recipes/695/world-cuisine/asian/chinese/", "chinese")] 
 
 class Receipt:
     def toJSON(self):
@@ -59,6 +60,11 @@ for u in cuisine_tuple:
             break
     all_rec_url = list(dict.fromkeys(all_rec_url))
     print("Total rec in :", u[1], len(all_rec_url))
+    outfile1 = open("url_%s.txt"%u[1], "w")
+    for uu in all_rec_url:
+        outfile1.write(uu)
+        outfile1.write("\n")
+
     i = 1
     receipts = []
     for uu in all_rec_url:
