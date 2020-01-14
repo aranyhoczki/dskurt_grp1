@@ -1,20 +1,20 @@
 # Receptek
 
-## allrecipes.com
+## forrás adatok
+
+### allrecipes.com
 Egy szkript segítségével le scraper-eltem a recepteket.
 
 A kimeneti forma ndjson (= egy sor egy json rekord)
 
-## szkript
+### szkript
 
 A szkript: get_recipies.py
 
 Kell hozzá:
 pip install ndjson, wget, recipe_scrapers
 
-
-
-## ndjson 
+### kiment : ndjson 
 Ilyen formában vannak a receptek:
 ```
 {
@@ -40,6 +40,61 @@ Ilyen formában vannak a receptek:
     "total_time": 60
 }
 ```
-Tisztítás:
-- A hozzávalókat fel keée oszani mennyit és mi-re
-- Vannak speciális karakterek a hozzávalóknál, amit meg kellene javítani
+
+## data preparation
+### Összetevők
+1) Ahhoz, hogy az összetevőkből a recepet meg tudjuk találni, szükség van egy 'ismert összetevők' listára.
+Pl:
+```
+ismert összetevők = ['peppers', 'garlic', 'oil', 'vegetable oil', 'water' ... ]
+```
+Itt majd érdekes lesz az 'oil' és 'vegetable oil' kérdése, de ezt majd az összetevők keresésében oldjuk meg
+
+2) Az ismert összetevők előfordulását fogjuk keresni a recept összetevők szövegeiben.
+Tehát 
+```
+{
+...
+    "ingredients": [
+        "2 cloves garlic",
+        "3 serrano peppers",
+        "1 cup grated cotija cheese"
+    ],
+    "title": "Enchiladas Verdes",
+    ...
+}
+```
+Ebből annak kellene kiesnie, hogy
+```
+{
+"Enchiladas Verdes" : ['garlic', 'peppers', 'cheese']
+...
+}
+```
+Ezzel meglenne, hogy milyen recept milyen ismert összetevőket tartalmaz
+Itt figyelni kellene, hogy:
+ha 'vegetable oil' -t  tartalmaz egy összetevő, akkor ne legyen 'oil' + 'vegetable oil' is benne.
+
+3) Az ajánló motor az alap összetevők alapján kikeresi azokat a recepteket, amelyekben a legtöbb összetevő megtalálható
+...
+
+
+### Recept adatbázis
+Az eredeti recept adatbázisban láthatóan több helyen (jellemzően a mennyiségeknél) az unicode használat miatt kódok vannak. Ezeket nice-to-have lenne javítani.
+Ez azért kellene, mert terv szerint visszaküljük a recepet valamilyen formában (pl. email) ami nem olyan szép, ha ilyet tartalmaz
+
+u00bc
+Tehát pl::
+```
+        "2 \u00bc pounds small green tomatillos, husks removed",
+```
+helyett
+```
+        "2 1/4 pounds small green tomatillos, husks removed",
+```
+
+
+
+
+
+

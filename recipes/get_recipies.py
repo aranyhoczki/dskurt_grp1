@@ -5,7 +5,7 @@ import datetime
 from recipe_scrapers import scrape_me
 import json
 import ndjson
-
+## commenttest
 
 cuisine_tuple = [("https://www.allrecipes.com/recipes/1470/world-cuisine/latin-american/mexican/authentic/", "mexican"),
                      ("https://www.allrecipes.com/recipes/721/world-cuisine/european/french/", "french"),
