@@ -1,0 +1,493 @@
+,label_id,category,count
+249,548,Industry tag,24240597
+270,704,Property Industry 2.0,16824664
+250,549,Property Industry 1.0,13680442
+246,405,Custom label,8239886
+279,713,Services 1,8182546
+291,730,And the Church,7257951
+239,302,unknown,5985005
+305,756,Internet banking,5984722
+207,251,Finance,5003073
+240,303,unknown,4166625
+477,1007,P2P net loan,4035980
+318,775,Liquid medium,3713370
+276,710,Relatives 1,3123615
+326,783,High risk,2881203
+280,714,1 free,2825679
+328,786,Low risk,2628813
+208,252,Wealth Management,2545297
+287,721,Personal Effectiveness 1,2523627
+138,172,IM,2515242
+322,779,Higher income,2456072
+306,757,P2P,2400236
+443,959,financial,2224282
+444,960,P2P,2224282
+241,306,unknown,2012991
+325,782,Low income,1995422
+219,263,Debit and credit,1960376
+100,128,online malls,1951109
+320,777,Low liquidity,1937055
+144,179,video,1907774
+329,787,Low Risk,1854674
+218,262,Pay,1763881
+310,761,Financial Services,1472464
+324,781,Low profitability,1409720
+478,1008,Pay,1315676
+259,564,pursue,1290473
+323,780,Moderate profitability,1278365
+482,1012,Internet Banking,1236732
+316,773,High Flow,1235276
+474,1003,fashion,1223571
+308,759,Third party payment,1195241
+302,751,Bank financing,1192547
+290,724,Total Cost 1,1095786
+266,691,mobile bank,1076763
+210,254,Direct Bank,1059612
+485,1015,mobile bank,1031371
+307,758,Direct Banking,982976
+289,723,Cozy 1,950215
+336,794,Tencent,946265
+257,562,Science and Technology,930452
+303,752,fixed income,852099
+143,178,music,851512
+286,720,Smart Shopping 1,815257
+212,256,Securities,810847
+484,1014,Consumer Finance,793457
+248,407,DS_P2P net loan,728504
+247,406,unknown,728504
+209,253,IMF,666571
+401,909,Air Travel,644721
+416,932,travel,611623
+135,168,community,587557
+271,705,Quality 1,570974
+317,774,High mobility,564807
+432,948,Booking channels,551190
+150,186,Taxi,547782
+147,183,map,534715
+142,177,radio,533008
+380,854,Property Industry new,532451
+131,163,Technology Information,526837
+133,166,weibo,510032
+101,129,"online shopping by group, like groupon",508824
+120,152,reading platform,468581
+272,706,Customized 1,449190
+321,778,High profitability,425272
+296,737,fund,423187
+170,209,pictures photography,418271
+297,738,Monetary Fund,400356
+285,719,Pursuit 1,383418
+126,158,news,375949
+366,825,the film,368813
+168,206,Medical,353594
+437,953,Integrated Air Travel Booking,352437
+292,731,stock,348143
+337,795,game,347181
+293,732,A shares,345400
+304,755,Consumer loans,341105
+330,788,Financial Supermarket,337819
+102,130,online shopping navigation,337739
+188,227,Integrated Living,325694
+184,223,convenience services,303074
+157,193,tourism product,298299
+182,221,Accounting,296451
+251,551,Customization,295906
+183,222,Car Owners,291132
+370,829,Buy class,278702
+490,1020,Bank Credit Card,262866
+275,709,1 reputation,262355
+396,870,Personal Effectiveness,258277
+489,1019,Internet Securities,249438
+189,229,Jobs,247081
+283,717,Science and Technology 1,244999
+281,715,Passion 1,242527
+154,190,train,241105
+372,840,Maternal and child population,238014
+166,204,sports and gym,233309
+103,131,"online shopping, price comparing",228964
+481,1011,Third-party card management,228428
+196,236,network disk,228427
+261,566,Personal Effectiveness,226089
+277,711,Irritation / Fun 1,223343
+255,558,service,221469
+385,859,pursue,214438
+359,818,literature,194496
+327,785,Medium risk,193359
+273,707,Trendy / cool 1,191766
+172,211,takeaway ordering,184381
+245,326,Condition of the vehicles,184129
+278,712,Nature 1,180180
+475,1005,Traditional securities brokerage,167927
+435,951,High-speed rail train reservation,163013
+94,100,Cute style comic,162084
+397,871,service,161915
+417,933,Purpose of travel,160316
+191,231,notes,149921
+167,205,health,149119
+244,318,unknown,146792
+175,214,Reviews,146295
+299,747,Insurance,140748
+480,1010,Accounting,140617
+260,565,Smart Shopping,137788
+216,260,Crowdfunding financing,133715
+152,188,flight,132608
+23,27,game-Cartoon,125547
+374,842,Families with babies,125276
+221,266,Housing Advice,124234
+488,1018,Direct Banking,122398
+354,813,The elimination of class,121823
+169,207,Health Management,120435
+36,42,poker game_doudizhu,118640
+284,718,1 vitality,118442
+319,776,Lower liquidity,109910
+211,255,Direct Insurance,102436
+421,937,Integrated tourism,102215
+483,1013,Financial Information,101634
+256,559,free,99889
+361,820,read,98184
+119,151,dictionary,98035
+331,789,other,97858
+108,137,foreign language,97735
+233,279,Automotive News,95859
+487,1017,Heritage Foundation,91298
+232,277,the film,89636
+106,135,education outside class,88220
+217,261,Lottery ticket,87684
+153,189,Bus,85307
+375,843,Pregnant baby,85133
+116,148,novels,84228
+10,13,game-Puzzle,81481
+195,235,Contacts,81036
+367,826,Online booking class,80956
+192,232,notes,77630
+268,694,Wearable Health,77563
+145,180,show,77350
+109,138,professional skills,77093
+301,749,Insurance,77016
+252,552,Trendy / cool,74424
+254,555,Relatives,74424
+136,169,picture sharing,74270
+197,237,store management,72998
+127,159,Entertainment News,71032
+352,811,Chess categories,69633
+113,142,exams,67784
+105,134,education for babies,67692
+274,708,Simple 1,61639
+161,198,Appliances,61477
+476,1006,Lottery ticket,60921
+151,187,Car,60515
+124,156,science,59852
+376,844,Parenting stage,59260
+226,271,Prepare pregnant pregnancy,57698
+379,847,Sea Amoy,57590
+298,744,Equity Fund,55836
+391,865,Science and Technology,54827
+134,167,love and marriage,54786
+176,215,Recipes,53399
+383,857,free,53226
+190,230,Scheduling,52950
+186,225,Points Activities,52341
+155,191,Hotel application,50363
+269,695,Smart Appliances,50077
+181,220,Calendar,47933
+137,170,blogs,47407
+402,910,aviation,47290
+333,791,Lottery ticket,47126
+26,31,game-Tactics,46230
+129,161,Sports News,44845
+364,823,Other Read,44758
+332,790,Financial Information,44391
+180,219,Express,43701
+118,150,comics,43670
+9,12,game-Music and Dance,43647
+486,1016,Traditional Insurance,42956
+12,16,game-Parkour,41645
+377,845,Families with big baby,41635
+347,806,music,40623
+41,47,poker,39892
+132,164,gaming strategy,39853
+45,51,Intellectual development game,39636
+313,770,Stock Futures,39526
+314,771,Commodity Futures,38526
+355,814,Animation,35775
+234,280,Sale of cars,35472
+24,29,game-Role -playing games,34872
+112,141,library,34096
+203,246,readers,33899
+300,748,Life Insurance,32394
+130,162,Financial Information,32302
+438,954,Hotels,32172
+439,955,Hotel Type,32172
+390,864,Reputation,32013
+86,92,magic,31235
+18,22,game-Box,31052
+424,940,Free exercise,30527
+423,939,Travel Information,30527
+156,192,Travel advisory,30045
+193,233,File Editor,29930
+37,43,chess,29726
+98,104,realistic style comic,29371
+418,934,Travel Travel,28907
+5,8,game-stress reliever,27924
+122,154,joke,27781
+373,841,Prepare baby,27764
+7,10,game-Answer,27571
+117,149,magazine and journal,27549
+185,224,fashion outfit,27451
+378,846,Families with small babies,27392
+214,258,Exchange,27103
+407,922,Aviation Integrated Services,26410
+408,923,Aeronautical Information Service,26377
+148,184,navigation,25742
+30,36,game-shooting,25519
+387,861,Cool trendy,25090
+262,568,comfortable,24991
+199,240,System Tools,24733
+115,147,children books,24642
+228,273,Maternal and child supplies,24103
+362,821,Pirated content,24077
+48,54,checkpoints game,23329
+356,815,Animation aggregate class,23005
+8,11,game-Fishing,22963
+441,957,Hotel Chain,22887
+399,873,Stimulate fun,22481
+388,862,Relatives,22334
+38,44,majiang,21490
+91,97,japanese and korean style,21315
+411,926,Flight area,20907
+403,916,Airline type,20880
+89,95,sports,20807
+400,874,comfortable,20581
+412,927,Chinese mainland (Airlines),20395
+146,181,Audiobooks,20172
+282,716,Noble 1,20141
+419,935,Overseas travel,19644
+363,822,Listening to books category,19055
+25,30,game-Competitive action,18667
+194,234,business cards,18660
+82,88,millitary and wars,18192
+114,144,class managemetn,18173
+343,802,SLG (strategy),17188
+393,867,Enthusiasm,16937
+242,316,Occupational identity,16627
+404,917,Full Service Airlines,16259
+351,810,Casual puzzle categories,16193
+433,949,Integrated ticket reservation,15501
+353,812,Parkour avoid class,15488
+243,317,College Students,15218
+93,99,US and Europe animation,15014
+204,247,Utilities,14965
+97,103,US and Europe magic comic,14625
+174,213,coupon,14201
+446,969,casual games,14186
+398,872,Customization,14167
+63,69,business,14131
+159,195,coach transport,14040
+389,863,Smart Shopping,13863
+235,281,A beauty care,13807
+227,272,Parenting,13747
+222,267,Buy,13215
+224,269,Rentals,12904
+434,950,Book hotel complex,12752
+358,817,Comics Reading Tools,12574
+13,17,game-Racing,12488
+39,45,table game,12139
+436,952,Coach reservations,12091
+110,139,management,11729
+32,38,game-flight,11517
+165,203,lose weight,11493
+6,9,game-pet,11248
+350,809,Business simulation,11030
+71,77,3 kindom game,10594
+338,796,Cards RPG,9899
+27,32,game-card,9872
+95,101,pixel style comic,9650
+215,259,Precious Metals,9392
+158,194,Share Travels,9374
+160,197,Decoration,9367
+345,804,Flight Shooting,8904
+442,958,Non-standard accommodation,8776
+99,105,chinese comic,8692
+368,827,User Community,8646
+40,46,Texas Poker,8451
+20,24,game-Lianliankan,8401
+51,57,old style game,8399
+394,868,vitality,8058
+382,856,Total Cost,7953
+164,201,Smart Home,7898
+206,250,WIFI,7365
+479,1009,Crowdfunding,7201
+11,14,game-Adventure puzzle,7110
+346,805,Shootout Shooting (STG),6867
+453,976,Simulators,6775
+339,797,MMO,6756
+340,798,round,6575
+344,803,Racing (RAC),6369
+173,212,Astrology Horoscope,6314
+334,792,exchange rate,6234
+386,860,quality,6160
+111,140,art and culture,6061
+267,692,Insurance,5984
+341,800,ARPG,5895
+452,975,strategy game,5776
+427,943,Destination Region,5661
+60,66,ARPG,5660
+70,76,gambling,5609
+59,65,realtime fighting,5597
+84,90,zombies game,5572
+92,98,japanese comic and animation,5497
+213,257,futures,5452
+455,978,Chess game,5450
+55,61,billards,5393
+360,819,Read the operator's,5218
+83,89,science fiction,5196
+149,185,Behalf of the drive,5163
+178,217,Weather,4991
+422,938,Tour around,4945
+121,153,poetry,4841
+429,945,Japan and South Korea (Travel),4779
+28,33,game-Business simulation,4692
+420,936,Domestic travel,4605
+395,869,classical,4584
+451,974,action games,4564
+58,64,Turn based RPG game,4533
+405,918,Low Cost Airlines,4429
+237,283,Beauty Nail,4425
+445,968,Card Game,4286
+34,40,game-Snipe,4228
+3,6,game-Cutting things,3736
+64,70,farm,3649
+74,80,Journey to the West game,3594
+62,68,war chess,3355
+263,688,Ping,3347
+80,86,movie,3343
+163,200,household products,3239
+365,824,Hardware Related,3204
+491,1021,Internet Insurance,3188
+384,858,natural,3167
+426,942,Share Tour,2888
+425,941,Travel preferences,2888
+205,249,Editor,2885
+72,78,knight game,2863
+46,52,math,2679
+29,35,game-Horizontal version,2580
+177,216,Business Office,2567
+467,995,tribe,2541
+198,238,Engineering Drawing,2497
+87,93,dotal-lol,2477
+22,26,game-Bobble,2359
+187,226,Housekeeping,2351
+78,84,80s Japanese comic,2236
+223,268,Sellers,2215
+200,241,App Store,2203
+468,996,Ninja,2143
+288,722,Classical 1,2134
+295,736,Other shares,2115
+66,72,pet raising up,2096
+107,136,study abroad,2039
+309,760,Crowdfunding,1999
+56,62,other ball game,1867
+104,132,shopping sharing,1849
+264,689,safety Insurance,1800
+342,801,MOBA,1777
+33,39,game-tank,1736
+85,91,World of Warcraft,1640
+53,59,football,1552
+265,690,Peace - Search,1547
+258,563,vitality,1460
+52,58,basketball,1442
+349,808,Tower Defense,1434
+4,7,game-Finding fault,1422
+371,839,Doctors,1409
+73,79,Cultivation fantasy game,1337
+230,275,KTV,1282
+448,971,cosplay,1266
+19,23,game-gem,1203
+459,983,Racing games,1193
+14,18,game-Motorcycle,1154
+225,270,Mother,1153
+90,96,Chinese painting,1122
+43,49,Puzzle,1069
+238,284,Make-up application,1054
+236,282,Skin care applications,1053
+315,772,Financial Futures,961
+381,855,noble,950
+458,982,Music Games,847
+229,274,entertainment,816
+348,807,Sports,788
+79,85,90s Japanese comic,736
+430,946,"Europe, the United States and Macao (Travel)",674
+392,866,Simple,654
+77,83,Western Mythology,641
+171,210,Man playing favorites,640
+44,50,Literacy Games,635
+231,276,show,625
+461,986,Xian Xia,580
+67,73,love raising up,558
+15,19,game-Rowing,528
+369,828,Vermicelli,509
+440,956,High-end hotel,509
+294,734,H shares,509
+128,160,Academic Information,493
+141,175,phone,485
+31,37,game-3D,459
+96,102,violence comic,445
+179,218,Clock,414
+125,157,Information,379
+449,972,Sports Games,331
+447,970,Puzzles,313
+21,25,game-Zuma,293
+81,87,shows,266
+460,984,Games,233
+415,931,"Hong Kong, Macao and Taiwan (aviation)",229
+413,928,Southeast Asia (aviation),227
+311,762,Trust,199
+357,816,Class animation community,196
+454,977,Adventure Game,195
+406,919,Regional Aviation,192
+140,174,email,186
+463,988,navigation,168
+202,245,Desktop Enhancements,167
+54,60,tennis,158
+428,944,Southeast Asia (Travel),152
+76,82,Chinese Classical Mythology,151
+464,990,reality show,131
+88,94,sailing game,128
+69,75,puzzel,123
+253,553,Simple,121
+335,793,Antique collection,107
+450,973,Table Games,102
+16,20,game-aircraft,101
+456,980,Educational games,83
+471,999,Martial arts,76
+68,74,unknown,72
+57,63,RPG game,69
+61,67,business strategy game,60
+35,41,poker and chess,58
+431,947,"Hong Kong, Macao and Taiwan (Travel)",56
+414,930,"Europe, the United States and Macao (aviation)",56
+465,991,Jin Yong,55
+50,56,fighting game,41
+466,993,Senki,40
+462,987,effort,38
+139,173,mesasge,27
+410,925,airport,27
+469,997,Romance,27
+49,55,Beach landing game,26
+75,81,Outlaws of the Marsh game,22
+470,998,Shushan,16
+42,48,Children puzzle game,16
+65,71,raising up game,16
+123,155,psychology,15
+201,242,search,13
+162,199,Furniture,13
+473,1002,Harem,10
+17,21,game-Gem Elimination,6
+312,763,Trust funds,6
+457,981,Family Games,6
+472,1000,Domestic animation,6
+1,4,game-Art Style,6
+409,924,Airline Alliances,6
+0,2,game-game type,6
+220,265,Estate,5
+47,53,Guard tower defense game,3
+2,5,game-Leisure time,3
