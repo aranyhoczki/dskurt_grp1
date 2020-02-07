@@ -1,0 +1,931 @@
+,label_id,category,not_active_cou,active_cou,all_cou
+489,548,Industry tag,14394096.0,9846501.0,24240597.0
+629,704,Property Industry 2.0,10017203.0,6807461.0,16824664.0
+490,549,Property Industry 1.0,7567242.0,6113200.0,13680442.0
+359,405,Custom label,5902239.0,2337647.0,8239886.0
+638,713,Services 1,5084162.0,3098384.0,8182546.0
+650,730,And the Church,5129490.0,2128461.0,7257951.0
+266,302,unknown,3858323.0,2126682.0,5985005.0
+676,756,Internet banking,4164804.0,1819918.0,5984722.0
+232,251,Finance,3518798.0,1484275.0,5003073.0
+267,303,unknown,2547005.0,1619620.0,4166625.0
+915,1007,P2P net loan,2790209.0,1245771.0,4035980.0
+693,775,Liquid medium,2724044.0,989326.0,3713370.0
+635,710,Relatives 1,1213586.0,1910029.0,3123615.0
+701,783,High risk,2042057.0,839146.0,2881203.0
+639,714,1 free,1962596.0,863083.0,2825679.0
+704,786,Low risk,1758073.0,870740.0,2628813.0
+233,252,Wealth Management,1686033.0,859264.0,2545297.0
+646,721,Personal Effectiveness 1,1691617.0,832010.0,2523627.0
+153,172,IM,783281.0,1731961.0,2515242.0
+697,779,Higher income,1727403.0,728669.0,2456072.0
+677,757,P2P,1678253.0,721983.0,2400236.0
+871,959,financial,1545879.0,678403.0,2224282.0
+872,960,P2P,1545879.0,678403.0,2224282.0
+270,306,unknown,1426462.0,586529.0,2012991.0
+700,782,Low income,1463575.0,531847.0,1995422.0
+244,263,Debit and credit,1229161.0,731215.0,1960376.0
+109,128,online malls,1241230.0,709879.0,1951109.0
+695,777,Low liquidity,1402201.0,534854.0,1937055.0
+160,179,video,1315231.0,592543.0,1907774.0
+705,787,Low Risk,1334023.0,520651.0,1854674.0
+243,262,Pay,1039147.0,724734.0,1763881.0
+681,761,Financial Services,1021777.0,450687.0,1472464.0
+699,781,Low profitability,1108431.0,301289.0,1409720.0
+916,1008,Pay,791140.0,524536.0,1315676.0
+505,564,pursue,1091736.0,198737.0,1290473.0
+698,780,Moderate profitability,703599.0,574766.0,1278365.0
+920,1012,Internet Banking,964619.0,272113.0,1236732.0
+691,773,High Flow,654023.0,581253.0,1235276.0
+911,1003,fashion,729403.0,494168.0,1223571.0
+679,759,Third party payment,627609.0,567632.0,1195241.0
+671,751,Bank financing,937533.0,255014.0,1192547.0
+649,724,Total Cost 1,823146.0,272640.0,1095786.0
+617,691,mobile bank,889156.0,187607.0,1076763.0
+235,254,Direct Bank,890315.0,169297.0,1059612.0
+923,1015,mobile bank,873622.0,157749.0,1031371.0
+678,758,Direct Banking,830932.0,152044.0,982976.0
+648,723,Cozy 1,631622.0,318593.0,950215.0
+712,794,Tencent,744364.0,201901.0,946265.0
+503,562,Science and Technology,790557.0,139895.0,930452.0
+672,752,fixed income,720086.0,132013.0,852099.0
+159,178,music,527740.0,323772.0,851512.0
+645,720,Smart Shopping 1,659555.0,155702.0,815257.0
+237,256,Securities,571941.0,238906.0,810847.0
+922,1014,Consumer Finance,563704.0,229753.0,793457.0
+360,406,unknown,523546.0,204958.0,728504.0
+361,407,DS_P2P net loan,523546.0,204958.0,728504.0
+234,253,IMF,503514.0,163057.0,666571.0
+826,909,Air Travel,518469.0,126252.0,644721.0
+844,932,travel,489155.0,122468.0,611623.0
+149,168,community,385920.0,201637.0,587557.0
+630,705,Quality 1,443469.0,127505.0,570974.0
+692,774,High mobility,428727.0,136080.0,564807.0
+860,948,Booking channels,443677.0,107513.0,551190.0
+167,186,Taxi,260001.0,287781.0,547782.0
+164,183,map,432580.0,102135.0,534715.0
+158,177,radio,203319.0,329689.0,533008.0
+771,854,Property Industry new,490281.0,42170.0,532451.0
+144,163,Technology Information,322903.0,203934.0,526837.0
+147,166,weibo,246054.0,263978.0,510032.0
+110,129,"online shopping by group, like groupon",424703.0,84121.0,508824.0
+133,152,reading platform,345074.0,123507.0,468581.0
+631,706,Customized 1,326249.0,122941.0,449190.0
+696,778,High profitability,314793.0,110479.0,425272.0
+657,737,fund,328321.0,94866.0,423187.0
+190,209,pictures photography,240400.0,177871.0,418271.0
+658,738,Monetary Fund,306996.0,93360.0,400356.0
+644,719,Pursuit 1,304119.0,79299.0,383418.0
+139,158,news,235443.0,140506.0,375949.0
+742,825,the film,295040.0,73773.0,368813.0
+187,206,Medical,129328.0,224266.0,353594.0
+865,953,Integrated Air Travel Booking,266113.0,86324.0,352437.0
+651,731,stock,258319.0,89824.0,348143.0
+713,795,game,270407.0,76774.0,347181.0
+652,732,A shares,256199.0,89201.0,345400.0
+675,755,Consumer loans,218027.0,123078.0,341105.0
+706,788,Financial Supermarket,283552.0,54267.0,337819.0
+111,130,online shopping navigation,226453.0,111286.0,337739.0
+208,227,Integrated Living,252087.0,73607.0,325694.0
+204,223,convenience services,142518.0,160556.0,303074.0
+174,193,tourism product,215278.0,83021.0,298299.0
+202,221,Accounting,172310.0,124141.0,296451.0
+492,551,Customization,259463.0,36443.0,295906.0
+203,222,Car Owners,212101.0,79031.0,291132.0
+746,829,Buy class,220534.0,58168.0,278702.0
+928,1020,Bank Credit Card,215482.0,47384.0,262866.0
+634,709,1 reputation,218311.0,44044.0,262355.0
+787,870,Personal Effectiveness,241885.0,16392.0,258277.0
+927,1019,Internet Securities,169978.0,79460.0,249438.0
+210,229,Jobs,197024.0,50057.0,247081.0
+642,717,Science and Technology 1,98977.0,146022.0,244999.0
+640,715,Passion 1,178860.0,63667.0,242527.0
+171,190,train,220540.0,20565.0,241105.0
+757,840,Maternal and child population,136526.0,101488.0,238014.0
+185,204,sports and gym,103547.0,129762.0,233309.0
+112,131,"online shopping, price comparing",194402.0,34562.0,228964.0
+919,1011,Third-party card management,126400.0,102028.0,228428.0
+217,236,network disk,168156.0,60271.0,228427.0
+507,566,Personal Effectiveness,199099.0,26990.0,226089.0
+636,711,Irritation / Fun 1,170167.0,53176.0,223343.0
+499,558,service,196737.0,24732.0,221469.0
+776,859,pursue,194170.0,20268.0,214438.0
+735,818,literature,149304.0,45192.0,194496.0
+703,785,Medium risk,177490.0,15869.0,193359.0
+632,707,Trendy / cool 1,126073.0,65693.0,191766.0
+192,211,takeaway ordering,134893.0,49488.0,184381.0
+280,326,Condition of the vehicles,151534.0,32595.0,184129.0
+637,712,Nature 1,35679.0,144501.0,180180.0
+913,1005,Traditional securities brokerage,141345.0,26582.0,167927.0
+863,951,High-speed rail train reservation,151091.0,11922.0,163013.0
+99,100,Cute style comic,128001.0,34083.0,162084.0
+788,871,service,147387.0,14528.0,161915.0
+845,933,Purpose of travel,119823.0,40493.0,160316.0
+212,231,notes,74979.0,74942.0,149921.0
+186,205,health,29286.0,119833.0,149119.0
+277,318,unknown,61813.0,84979.0,146792.0
+195,214,Reviews,117376.0,28919.0,146295.0
+667,747,Insurance,129552.0,11196.0,140748.0
+918,1010,Accounting,86748.0,53869.0,140617.0
+506,565,Smart Shopping,127175.0,10613.0,137788.0
+241,260,Crowdfunding financing,89494.0,44221.0,133715.0
+169,188,flight,110600.0,22008.0,132608.0
+26,27,game-Cartoon,87584.0,37963.0,125547.0
+759,842,Families with babies,91439.0,33837.0,125276.0
+247,266,Housing Advice,108304.0,15930.0,124234.0
+926,1018,Direct Banking,113279.0,9119.0,122398.0
+730,813,The elimination of class,84720.0,37103.0,121823.0
+188,207,Health Management,70001.0,50434.0,120435.0
+41,42,poker game_doudizhu,99111.0,19529.0,118640.0
+643,718,1 vitality,64976.0,53466.0,118442.0
+694,776,Lower liquidity,102501.0,7409.0,109910.0
+236,255,Direct Insurance,90491.0,11945.0,102436.0
+849,937,Integrated tourism,77985.0,24230.0,102215.0
+921,1013,Financial Information,64472.0,37162.0,101634.0
+500,559,free,76455.0,23434.0,99889.0
+737,820,read,80295.0,17889.0,98184.0
+132,151,dictionary,84013.0,14022.0,98035.0
+707,789,other,70149.0,27709.0,97858.0
+118,137,foreign language,79594.0,18141.0,97735.0
+260,279,Automotive News,68419.0,27440.0,95859.0
+925,1017,Heritage Foundation,73219.0,18079.0,91298.0
+258,277,the film,75641.0,13995.0,89636.0
+116,135,education outside class,67902.0,20318.0,88220.0
+242,261,Lottery ticket,56811.0,30873.0,87684.0
+170,189,Bus,70780.0,14527.0,85307.0
+760,843,Pregnant baby,32347.0,52786.0,85133.0
+129,148,novels,60324.0,23904.0,84228.0
+12,13,game-Puzzle,59383.0,22098.0,81481.0
+216,235,Contacts,24476.0,56560.0,81036.0
+743,826,Online booking class,66300.0,14656.0,80956.0
+213,232,notes,29482.0,48148.0,77630.0
+620,694,Wearable Health,40581.0,36982.0,77563.0
+161,180,show,47480.0,29870.0,77350.0
+119,138,professional skills,65845.0,11248.0,77093.0
+669,749,Insurance,71188.0,5828.0,77016.0
+493,552,Trendy / cool,62713.0,11711.0,74424.0
+496,555,Relatives,62713.0,11711.0,74424.0
+150,169,picture sharing,26908.0,47362.0,74270.0
+218,237,store management,44733.0,28265.0,72998.0
+140,159,Entertainment News,47052.0,23980.0,71032.0
+728,811,Chess categories,56811.0,12822.0,69633.0
+123,142,exams,53485.0,14299.0,67784.0
+115,134,education for babies,51420.0,16272.0,67692.0
+633,708,Simple 1,20970.0,40669.0,61639.0
+179,198,Appliances,56848.0,4629.0,61477.0
+914,1006,Lottery ticket,41835.0,19086.0,60921.0
+168,187,Car,43303.0,17212.0,60515.0
+137,156,science,49622.0,10230.0,59852.0
+761,844,Parenting stage,35683.0,23577.0,59260.0
+252,271,Prepare pregnant pregnancy,11868.0,45830.0,57698.0
+764,847,Sea Amoy,45209.0,12381.0,57590.0
+664,744,Equity Fund,49150.0,6686.0,55836.0
+782,865,Science and Technology,51726.0,3101.0,54827.0
+148,167,love and marriage,36638.0,18148.0,54786.0
+196,215,Recipes,47833.0,5566.0,53399.0
+774,857,free,48231.0,4995.0,53226.0
+211,230,Scheduling,18452.0,34498.0,52950.0
+206,225,Points Activities,23748.0,28593.0,52341.0
+172,191,Hotel application,37087.0,13276.0,50363.0
+621,695,Smart Appliances,39979.0,10098.0,50077.0
+201,220,Calendar,17738.0,30195.0,47933.0
+151,170,blogs,33068.0,14339.0,47407.0
+827,910,aviation,40793.0,6497.0,47290.0
+709,791,Lottery ticket,36475.0,10651.0,47126.0
+30,31,game-Tactics,31593.0,14637.0,46230.0
+142,161,Sports News,21658.0,23187.0,44845.0
+740,823,Other Read,32918.0,11840.0,44758.0
+708,790,Financial Information,28694.0,15697.0,44391.0
+200,219,Express,34750.0,8951.0,43701.0
+131,150,comics,36872.0,6798.0,43670.0
+11,12,game-Music and Dance,38659.0,4988.0,43647.0
+924,1016,Traditional Insurance,38830.0,4126.0,42956.0
+15,16,game-Parkour,34653.0,6992.0,41645.0
+762,845,Families with big baby,35703.0,5932.0,41635.0
+723,806,music,35861.0,4762.0,40623.0
+46,47,poker,33834.0,6058.0,39892.0
+145,164,gaming strategy,29285.0,10568.0,39853.0
+50,51,Intellectual development game,35306.0,4330.0,39636.0
+688,770,Stock Futures,25924.0,13602.0,39526.0
+689,771,Commodity Futures,25004.0,13522.0,38526.0
+731,814,Animation,29613.0,6162.0,35775.0
+261,280,Sale of cars,28476.0,6996.0,35472.0
+28,29,game-Role -playing games,29554.0,5318.0,34872.0
+122,141,library,30282.0,3814.0,34096.0
+227,246,readers,30104.0,3795.0,33899.0
+668,748,Life Insurance,28592.0,3802.0,32394.0
+143,162,Financial Information,21402.0,10900.0,32302.0
+866,954,Hotels,24044.0,8128.0,32172.0
+867,955,Hotel Type,24044.0,8128.0,32172.0
+781,864,Reputation,30359.0,1654.0,32013.0
+91,92,magic,26597.0,4638.0,31235.0
+21,22,game-Box,19982.0,11070.0,31052.0
+851,939,Travel Information,26050.0,4477.0,30527.0
+852,940,Free exercise,26050.0,4477.0,30527.0
+173,192,Travel advisory,23342.0,6703.0,30045.0
+214,233,File Editor,14569.0,15361.0,29930.0
+42,43,chess,25787.0,3939.0,29726.0
+103,104,realistic style comic,24983.0,4388.0,29371.0
+846,934,Travel Travel,20071.0,8836.0,28907.0
+7,8,game-stress reliever,23882.0,4042.0,27924.0
+135,154,joke,20973.0,6808.0,27781.0
+758,841,Prepare baby,12861.0,14903.0,27764.0
+9,10,game-Answer,20543.0,7028.0,27571.0
+130,149,magazine and journal,22088.0,5461.0,27549.0
+205,224,fashion outfit,19781.0,7670.0,27451.0
+763,846,Families with small babies,22703.0,4689.0,27392.0
+239,258,Exchange,17275.0,9828.0,27103.0
+834,922,Aviation Integrated Services,22508.0,3902.0,26410.0
+835,923,Aeronautical Information Service,22475.0,3902.0,26377.0
+165,184,navigation,18711.0,7031.0,25742.0
+35,36,game-shooting,21693.0,3826.0,25519.0
+778,861,Cool trendy,23303.0,1787.0,25090.0
+509,568,comfortable,21975.0,3016.0,24991.0
+221,240,System Tools,18607.0,6126.0,24733.0
+128,147,children books,18504.0,6138.0,24642.0
+254,273,Maternal and child supplies,10529.0,13574.0,24103.0
+738,821,Pirated content,15066.0,9011.0,24077.0
+53,54,checkpoints game,19965.0,3364.0,23329.0
+732,815,Animation aggregate class,18767.0,4238.0,23005.0
+10,11,game-Fishing,19894.0,3069.0,22963.0
+869,957,Hotel Chain,16028.0,6859.0,22887.0
+790,873,Stimulate fun,19620.0,2861.0,22481.0
+779,862,Relatives,20432.0,1902.0,22334.0
+43,44,majiang,17546.0,3944.0,21490.0
+96,97,japanese and korean style,18225.0,3090.0,21315.0
+838,926,Flight area,18312.0,2595.0,20907.0
+828,916,Airline type,18285.0,2595.0,20880.0
+94,95,sports,12062.0,8745.0,20807.0
+791,874,comfortable,18716.0,1865.0,20581.0
+839,927,Chinese mainland (Airlines),17800.0,2595.0,20395.0
+162,181,Audiobooks,13032.0,7140.0,20172.0
+641,716,Noble 1,11036.0,9105.0,20141.0
+847,935,Overseas travel,14253.0,5391.0,19644.0
+739,822,Listening to books category,14598.0,4457.0,19055.0
+29,30,game-Competitive action,16126.0,2541.0,18667.0
+215,234,business cards,17856.0,804.0,18660.0
+87,88,millitary and wars,14443.0,3749.0,18192.0
+125,144,class managemetn,14048.0,4125.0,18173.0
+719,802,SLG (strategy),12296.0,4892.0,17188.0
+784,867,Enthusiasm,14549.0,2388.0,16937.0
+275,316,Occupational identity,11698.0,4929.0,16627.0
+829,917,Full Service Airlines,14131.0,2128.0,16259.0
+727,810,Casual puzzle categories,13754.0,2439.0,16193.0
+861,949,Integrated ticket reservation,12777.0,2724.0,15501.0
+729,812,Parkour avoid class,12244.0,3244.0,15488.0
+276,317,College Students,10363.0,4855.0,15218.0
+98,99,US and Europe animation,12389.0,2625.0,15014.0
+228,247,Utilities,11700.0,3265.0,14965.0
+102,103,US and Europe magic comic,12527.0,2098.0,14625.0
+194,213,coupon,6078.0,8123.0,14201.0
+877,969,casual games,11913.0,2273.0,14186.0
+789,872,Customization,12520.0,1647.0,14167.0
+68,69,business,12094.0,2037.0,14131.0
+176,195,coach transport,11606.0,2434.0,14040.0
+780,863,Smart Shopping,12987.0,876.0,13863.0
+262,281,A beauty care,10155.0,3652.0,13807.0
+253,272,Parenting,9638.0,4109.0,13747.0
+248,267,Buy,9478.0,3737.0,13215.0
+250,269,Rentals,9773.0,3131.0,12904.0
+862,950,Book hotel complex,7430.0,5322.0,12752.0
+734,817,Comics Reading Tools,10717.0,1857.0,12574.0
+16,17,game-Racing,11749.0,739.0,12488.0
+44,45,table game,9130.0,3009.0,12139.0
+864,952,Coach reservations,10586.0,1505.0,12091.0
+120,139,management,8928.0,2801.0,11729.0
+37,38,game-flight,9181.0,2336.0,11517.0
+184,203,lose weight,9915.0,1578.0,11493.0
+8,9,game-pet,9543.0,1705.0,11248.0
+726,809,Business simulation,9189.0,1841.0,11030.0
+76,77,3 kindom game,6986.0,3608.0,10594.0
+714,796,Cards RPG,7709.0,2190.0,9899.0
+31,32,game-card,7014.0,2858.0,9872.0
+100,101,pixel style comic,8675.0,975.0,9650.0
+240,259,Precious Metals,5988.0,3404.0,9392.0
+175,194,Share Travels,7753.0,1621.0,9374.0
+178,197,Decoration,8047.0,1320.0,9367.0
+721,804,Flight Shooting,7002.0,1902.0,8904.0
+870,958,Non-standard accommodation,7540.0,1236.0,8776.0
+104,105,chinese comic,6877.0,1815.0,8692.0
+744,827,User Community,7900.0,746.0,8646.0
+45,46,Texas Poker,7169.0,1282.0,8451.0
+23,24,game-Lianliankan,7932.0,469.0,8401.0
+56,57,old style game,6860.0,1539.0,8399.0
+785,868,vitality,7423.0,635.0,8058.0
+773,856,Total Cost,7241.0,712.0,7953.0
+182,201,Smart Home,6127.0,1771.0,7898.0
+231,250,WIFI,2665.0,4700.0,7365.0
+917,1009,Crowdfunding,6538.0,663.0,7201.0
+13,14,game-Adventure puzzle,6300.0,810.0,7110.0
+722,805,Shootout Shooting (STG),5597.0,1270.0,6867.0
+884,976,Simulators,5974.0,801.0,6775.0
+715,797,MMO,5565.0,1191.0,6756.0
+716,798,round,5868.0,707.0,6575.0
+720,803,Racing (RAC),5873.0,496.0,6369.0
+193,212,Astrology Horoscope,4788.0,1526.0,6314.0
+710,792,exchange rate,4906.0,1328.0,6234.0
+777,860,quality,5883.0,277.0,6160.0
+121,140,art and culture,5090.0,971.0,6061.0
+618,692,Insurance,4379.0,1605.0,5984.0
+717,800,ARPG,4651.0,1244.0,5895.0
+883,975,strategy game,5012.0,764.0,5776.0
+855,943,Destination Region,5038.0,623.0,5661.0
+65,66,ARPG,4583.0,1077.0,5660.0
+75,76,gambling,3486.0,2123.0,5609.0
+64,65,realtime fighting,4187.0,1410.0,5597.0
+89,90,zombies game,4654.0,918.0,5572.0
+97,98,japanese comic and animation,4076.0,1421.0,5497.0
+238,257,futures,4840.0,612.0,5452.0
+886,978,Chess game,4708.0,742.0,5450.0
+60,61,billards,4789.0,604.0,5393.0
+736,819,Read the operator's,3428.0,1790.0,5218.0
+88,89,science fiction,4263.0,933.0,5196.0
+166,185,Behalf of the drive,3256.0,1907.0,5163.0
+198,217,Weather,643.0,4348.0,4991.0
+850,938,Tour around,3763.0,1182.0,4945.0
+134,153,poetry,3620.0,1221.0,4841.0
+857,945,Japan and South Korea (Travel),4272.0,507.0,4779.0
+32,33,game-Business simulation,3603.0,1089.0,4692.0
+848,936,Domestic travel,3751.0,854.0,4605.0
+786,869,classical,4401.0,183.0,4584.0
+882,974,action games,3943.0,621.0,4564.0
+63,64,Turn based RPG game,3691.0,842.0,4533.0
+830,918,Low Cost Airlines,3985.0,444.0,4429.0
+264,283,Beauty Nail,3042.0,1383.0,4425.0
+876,968,Card Game,3718.0,568.0,4286.0
+39,40,game-Snipe,3355.0,873.0,4228.0
+5,6,game-Cutting things,3235.0,501.0,3736.0
+69,70,farm,2904.0,745.0,3649.0
+79,80,Journey to the West game,3125.0,469.0,3594.0
+67,68,war chess,2937.0,418.0,3355.0
+614,688,Ping,2911.0,436.0,3347.0
+85,86,movie,2807.0,536.0,3343.0
+181,200,household products,2375.0,864.0,3239.0
+741,824,Hardware Related,2999.0,205.0,3204.0
+929,1021,Internet Insurance,2747.0,441.0,3188.0
+775,858,natural,3019.0,148.0,3167.0
+854,942,Share Tour,2709.0,179.0,2888.0
+853,941,Travel preferences,2709.0,179.0,2888.0
+230,249,Editor,2626.0,259.0,2885.0
+77,78,knight game,1939.0,924.0,2863.0
+51,52,math,2410.0,269.0,2679.0
+34,35,game-Horizontal version,1398.0,1182.0,2580.0
+197,216,Business Office,2126.0,441.0,2567.0
+903,995,tribe,1350.0,1191.0,2541.0
+219,238,Engineering Drawing,2453.0,44.0,2497.0
+92,93,dotal-lol,1394.0,1083.0,2477.0
+25,26,game-Bobble,2008.0,351.0,2359.0
+207,226,Housekeeping,2023.0,328.0,2351.0
+83,84,80s Japanese comic,1884.0,352.0,2236.0
+249,268,Sellers,1390.0,825.0,2215.0
+222,241,App Store,1513.0,690.0,2203.0
+904,996,Ninja,1928.0,215.0,2143.0
+647,722,Classical 1,1992.0,142.0,2134.0
+656,736,Other shares,1516.0,599.0,2115.0
+71,72,pet raising up,1972.0,124.0,2096.0
+117,136,study abroad,1810.0,229.0,2039.0
+680,760,Crowdfunding,1822.0,177.0,1999.0
+61,62,other ball game,1857.0,10.0,1867.0
+113,132,shopping sharing,1359.0,490.0,1849.0
+615,689,safety Insurance,1686.0,114.0,1800.0
+718,801,MOBA,1552.0,225.0,1777.0
+38,39,game-tank,1354.0,382.0,1736.0
+90,91,World of Warcraft,1443.0,197.0,1640.0
+58,59,football,755.0,797.0,1552.0
+616,690,Peace - Search,1225.0,322.0,1547.0
+504,563,vitality,1352.0,108.0,1460.0
+57,58,basketball,1200.0,242.0,1442.0
+725,808,Tower Defense,1199.0,235.0,1434.0
+6,7,game-Finding fault,1225.0,197.0,1422.0
+756,839,Doctors,1335.0,74.0,1409.0
+78,79,Cultivation fantasy game,881.0,456.0,1337.0
+256,275,KTV,1023.0,259.0,1282.0
+879,971,cosplay,660.0,606.0,1266.0
+22,23,game-gem,1012.0,191.0,1203.0
+891,983,Racing games,1188.0,5.0,1193.0
+17,18,game-Motorcycle,1011.0,143.0,1154.0
+251,270,Mother,567.0,586.0,1153.0
+95,96,Chinese painting,570.0,552.0,1122.0
+48,49,Puzzle,977.0,92.0,1069.0
+265,284,Make-up application,924.0,130.0,1054.0
+263,282,Skin care applications,856.0,197.0,1053.0
+690,772,Financial Futures,883.0,78.0,961.0
+772,855,noble,906.0,44.0,950.0
+890,982,Music Games,772.0,75.0,847.0
+255,274,entertainment,417.0,399.0,816.0
+724,807,Sports,577.0,211.0,788.0
+84,85,90s Japanese comic,302.0,434.0,736.0
+858,946,"Europe, the United States and Macao (Travel)",566.0,108.0,674.0
+783,866,Simple,622.0,32.0,654.0
+82,83,Western Mythology,493.0,148.0,641.0
+191,210,Man playing favorites,419.0,221.0,640.0
+49,50,Literacy Games,605.0,30.0,635.0
+257,276,show,586.0,39.0,625.0
+894,986,Xian Xia,181.0,399.0,580.0
+72,73,love raising up,343.0,215.0,558.0
+18,19,game-Rowing,519.0,9.0,528.0
+745,828,Vermicelli,306.0,203.0,509.0
+868,956,High-end hotel,476.0,33.0,509.0
+654,734,H shares,490.0,19.0,509.0
+141,160,Academic Information,299.0,194.0,493.0
+156,175,phone,437.0,48.0,485.0
+36,37,game-3D,424.0,35.0,459.0
+101,102,violence comic,375.0,70.0,445.0
+199,218,Clock,340.0,74.0,414.0
+138,157,Information,219.0,160.0,379.0
+880,972,Sports Games,288.0,43.0,331.0
+878,970,Puzzles,276.0,37.0,313.0
+24,25,game-Zuma,258.0,35.0,293.0
+86,87,shows,253.0,13.0,266.0
+892,984,Games,205.0,28.0,233.0
+682,762,Trust,198.0,1.0,199.0
+733,816,Class animation community,129.0,67.0,196.0
+885,977,Adventure Game,148.0,47.0,195.0
+831,919,Regional Aviation,169.0,23.0,192.0
+155,174,email,70.0,116.0,186.0
+896,988,navigation,129.0,39.0,168.0
+226,245,Desktop Enhancements,70.0,97.0,167.0
+59,60,tennis,156.0,2.0,158.0
+856,944,Southeast Asia (Travel),144.0,8.0,152.0
+81,82,Chinese Classical Mythology,149.0,2.0,151.0
+898,990,reality show,129.0,2.0,131.0
+93,94,sailing game,39.0,89.0,128.0
+74,75,puzzel,102.0,21.0,123.0
+494,553,Simple,113.0,8.0,121.0
+711,793,Antique collection,74.0,33.0,107.0
+881,973,Table Games,93.0,9.0,102.0
+19,20,game-aircraft,87.0,14.0,101.0
+888,980,Educational games,80.0,3.0,83.0
+73,74,unknown,62.0,10.0,72.0
+62,63,RPG game,67.0,2.0,69.0
+40,41,poker and chess,28.0,30.0,58.0
+899,991,Jin Yong,30.0,25.0,55.0
+55,56,fighting game,35.0,6.0,41.0
+901,993,Senki,30.0,10.0,40.0
+154,173,mesasge,16.0,11.0,27.0
+905,997,Romance,22.0,5.0,27.0
+54,55,Beach landing game,21.0,5.0,26.0
+80,81,Outlaws of the Marsh game,18.0,4.0,22.0
+906,998,Shushan,13.0,3.0,16.0
+683,763,Trust funds,5.0,1.0,6.0
+889,981,Family Games,5.0,1.0,6.0
+4,5,game-Leisure time,2.0,1.0,3.0
+0,1,,,,
+1,2,game-game type,6.0,,
+2,3,game-Game themes,,,
+3,4,game-Art Style,6.0,,
+14,15,game-Parkour Racing,,,
+20,21,game-Gem Elimination,6.0,,
+27,28,game-Online game,,,
+33,34,game-Action Shooting,,,
+47,48,Children puzzle game,16.0,,
+52,53,Guard tower defense game,3.0,,
+66,67,business strategy game,60.0,,
+70,71,raising up game,16.0,,
+105,115,unknown,,,
+106,125,unknown,,,
+107,126,unknown,,,
+108,127,online shopping,,,
+114,133,education,,,
+124,143,dialects,,,
+126,145,reading,,,
+127,146,reading for fetus,,,
+136,155,psychology,15.0,,
+146,165,Socially,,,
+152,171,communitation,,,
+157,176,movie,,,
+163,182,Business Travel,,,
+177,196,Household,,,
+180,199,Furniture,13.0,,
+183,202,health,,,
+189,208,Living,,,
+209,228,work,,,
+220,239,phone tools,,,
+223,242,search,13.0,,
+224,243,Input Method,,,
+225,244,Browser,,,
+229,248,,,,
+245,264,,,,
+246,265,Estate,5.0,,
+259,278,car,,,
+268,304,unknown,,,
+269,305,unknown,,,
+271,312,Consumer preferences,,,
+272,313,Consumer Goods,,,
+273,314,Consumer orientation,,,
+274,315,Brand Country,,,
+278,319,unknown,,,
+279,320,unknown,,,
+281,327,Car,,,
+282,328,No Car,,,
+283,329,Jewelry Watches,,,
+284,330,branded watch,,,
+285,331,fashion brand,,,
+286,332,Switzerland,,,
+287,333,Dress shoes,,,
+288,334,Women,,,
+289,335,Shoes,,,
+290,336,Men's,,,
+291,337,Men's Shoes,,,
+292,338,France,,,
+293,339,Hong Kong,,,
+294,340,Japan,,,
+295,341,High-end brand,,,
+296,342,United States,,,
+297,343,Outdoor sport,,,
+298,344,Germany,,,
+299,345,underwear,,,
+300,346,Home Clothing,,,
+301,347,Volkswagen brand,,,
+302,348,Sweden,,,
+303,349,Accessories,,,
+304,350,Italy,,,
+305,351,Household utensils,,,
+306,352,bed linings,,,
+307,353,Kids,,,
+308,354,Sports Health,,,
+309,355,outdoor equipment,,,
+310,356,China Mainland,,,
+311,357,Bags,,,
+312,358,Lady bags,,,
+313,359,Taiwan,,,
+314,360,Baby Products,,,
+315,361,Baby Clothing,,,
+316,362,M package,,,
+317,363,wallet,,,
+318,364,Digital,,,
+319,365,camera,,,
+320,366,Culture and Education,,,
+321,367,Office Supplies,,,
+322,368,"Jewelry, jewelry",,,
+323,369,Swimming Supplies,,,
+324,370,Canada,,,
+325,371,Phone,,,
+326,372,Digital Accessories,,,
+327,373,computer,,,
+328,374,Luxury brand,,,
+329,375,cosmetic,,,
+330,376,Fragrance oils,,,
+331,377,Feature Pack,,,
+332,378,Suitcase,,,
+333,379,Makeup,,,
+334,380,Skin Care,,,
+335,381,FOOD,,,
+336,382,Fast food meals,,,
+337,383,Day feed,,,
+338,384,Home Decoration,,,
+339,385,United Kingdom,,,
+340,386,Collection process,,,
+341,387,Korea,,,
+342,388,Austria,,,
+343,389,Spain,,,
+344,390,Household appliances,,,
+345,391,home appliances,,,
+346,392,Bathroom products,,,
+347,393,Pregnant mother supplies,,,
+348,394,Shoes,,,
+349,395,Norway,,,
+350,396,Western Dinner,,,
+351,397,Kitchen Appliances,,,
+352,398,Australia,,,
+353,399,Leisure and entertainment,,,
+354,400,Children's entertainment,,,
+355,401,SPA,,,
+356,402,Water Coffee Bar,,,
+357,403,Domestic services,,,
+358,404,Nail Tattoos,,,
+362,408,Location,,,
+363,409,Go places,,,
+364,410,High places,,,
+365,411,Four five-star hotel,,,
+366,412,Golf Club,,,
+367,413,ski facility,,,
+368,414,transportation hub,,,
+369,415,AIRPORT,,,
+370,416,Culture & Education,,,
+371,417,the University,,,
+372,418,High school,,,
+373,419,Tourist attractions,,,
+374,420,hospital,,,
+375,421,Portugal,,,
+376,422,Large household appliances,,,
+377,423,Baby food,,,
+378,424,Snacks Snacks,,,
+379,425,Retail stores,,,
+380,426,Tobacco row,,,
+381,427,Decoration materials,,,
+382,428,Fitness Equipment,,,
+383,429,Hotels,,,
+384,430,Singapore,,,
+385,431,Korean food,,,
+386,432,Lunch Dinner,,,
+387,433,Bread dessert,,,
+388,434,Thailand,,,
+389,435,Belgium,,,
+390,436,Shabu hot pot,,,
+391,437,buffet,,,
+392,438,groceries,,,
+393,439,Convenience Store,,,
+394,440,Pharmacy / medical devices / Health,,,
+395,441,Denmark,,,
+396,442,Greece,,,
+397,443,Furniture,,,
+398,444,Kitchenware,,,
+399,445,Collection shop,,,
+400,446,Baby Care,,,
+401,447,Netherlands,,,
+402,448,Stereo headphones,,,
+403,449,Baby bed,,,
+404,450,kids toys,,,
+405,451,Digital stores,,,
+406,452,Education and Training,,,
+407,453,Swim,,,
+408,454,wig,,,
+409,455,tableware,,,
+410,456,Latvia,,,
+411,457,Coffee water bar / teahouse,,,
+412,458,retail,,,
+413,459,Brazil,,,
+414,460,Malaysia,,,
+415,461,Baby Home Textiles,,,
+416,462,SPA / Health Center,,,
+417,463,Finland,,,
+418,464,Laundry / Leather Care / change clothes,,,
+419,465,Sports,,,
+420,466,cinema,,,
+421,467,Musical Instruments,,,
+422,468,Beauty salons,,,
+423,469,Supermarkets,,,
+424,470,Financial Planning Services,,,
+425,471,car services,,,
+426,472,Auto 4S shop,,,
+427,473,tea shop,,,
+428,474,Photographic prints,,,
+429,475,Cycling Sport,,,
+430,476,Wedding services,,,
+431,477,KTV service,,,
+432,478,Appliance stores,,,
+433,479,Philippines,,,
+434,480,Tea cups,,,
+435,481,Board games and entertainment,,,
+436,482,Games,,,
+437,483,Gym,,,
+438,484,Cleaning Products,,,
+439,485,Experience,,,
+440,486,Car decoration,,,
+441,487,Real Estate Property,,,
+442,488,Housing agency,,,
+443,489,Florist / Fruit Shop,,,
+444,490,Fishing Tackle,,,
+445,491,Electric Car,,,
+446,492,Personal Care,,,
+447,493,Swimming pool,,,
+448,494,Video City,,,
+449,495,Aftermarket decoration,,,
+450,496,Billiard room,,,
+451,497,Foot Bath,,,
+452,511,Wedding photography,,,
+453,512,Pet Services,,,
+454,513,Internet cafes,,,
+455,514,bank,,,
+456,515,Parental photography,,,
+457,516,pharmacy,,,
+458,517,Supermarket,,,
+459,518,teahouse,,,
+460,519,Car Rental,,,
+461,520,bookstore,,,
+462,521,Health Products,,,
+463,522,flower shop,,,
+464,523,Driving School,,,
+465,524,Games deep tags,,,
+466,525,Game willingness to pay,,,
+467,526,Game amount paid,,,
+468,527,Game Frequency,,,
+469,528,Game Installation,,,
+470,529,Active Games,,,
+471,530,High (had paid behavior),,,
+472,531,Low (not over charge behavior),,,
+473,532,payment 1,,,
+474,533,payment 2,,,
+475,534,payment 3,,,
+476,535,payment 4,,,
+477,536,payment 5,,,
+478,537,Ultra-high frequency (more than seven consecutive days game behavior),,,
+479,538,High Frequency (seven consecutive days there are games behavior),,,
+480,539,IF (there are three consecutive days game behavior),,,
+481,540,Low Frequency (only recently have the game play a day),,,
+482,541,High installation (over 7 games),,,
+483,542,The installation (3-7 games),,,
+484,543,Low installation (only 1-2 games),,,
+485,544,Active high (nearly 30 days played 7 games),,,
+486,545,Active in (nearly 30 days played 3-7 games),,,
+487,546,Low active (nearly 30 days played 1-2 games),,,
+488,547,car brand,,,
+491,550,quality,,,
+495,554,Reputation,,,
+497,556,Irritation / Fun,,,
+498,557,natural,,,
+501,560,Enthusiasm,,,
+502,561,noble,,,
+508,567,classical,,,
+510,569,Total Cost,,,
+511,570,Teahouse,,,
+512,571,Toiletries,,,
+513,572,Leather Care,,,
+514,573,cinema,,,
+515,574,Musical instruments,,,
+516,575,Indian Express,,,
+517,576,Foot Massage,,,
+518,577,Experience / DIY,,,
+519,578,Medical,,,
+520,579,marry,,,
+521,580,beauty,,,
+522,581,Hairdressing,,,
+523,582,financial,,,
+524,583,Slim,,,
+525,584,Paternity,,,
+526,585,Nail,,,
+527,586,Beauty SPA,,,
+528,587,Early Learning,,,
+529,588,medical instruments,,,
+530,589,Training institutions,,,
+531,590,Exam training,,,
+532,591,Device Properties,,,
+533,592,Brands,,,
+534,608,Equipment category,,,
+535,609,Phone,,,
+536,610,flat,,,
+537,611,Smart TV,,,
+538,612,smart watch,,,
+539,613,Smart bracelet,,,
+540,614,Features,,,
+541,615,Music phone,,,
+542,616,Beauty phone,,,
+543,617,Old machine,,,
+544,618,Photography phone,,,
+545,619,High-end business phone,,,
+546,620,Cost-effective mobile,,,
+547,621,screen size,,,
+548,622,6.0 inches above,,,
+549,623,6.0-5.6 inches,,,
+550,624,5.5-5.1 inches,,,
+551,625,5.0-4.6 inches,,,
+552,626,4.5-3.1 inches,,,
+553,627,3 inches and below,,,
+554,628,operating system,,,
+555,629,iOS,,,
+556,630,WP,,,
+557,631,Android,,,
+558,632,Hardware Features,,,
+559,633,8-core chips,,,
+560,634,Gyro,,,
+561,635,NFC chip,,,
+562,636,Dual SIM,,,
+563,637,Operators,,,
+564,638,operatior 1,,,
+565,639,operator 2,,,
+566,640,operator 3,,,
+567,641,The internet,,,
+568,642,WIFI,,,
+569,643,4G,,,
+570,644,3G,,,
+571,645,2G,,,
+572,646,unknown,,,
+573,647,unknown,,,
+574,648,unknown,,,
+575,649,unknown,,,
+576,650,unknown,,,
+577,651,unknown,,,
+578,652,shopping center,,,
+579,653,language training,,,
+580,654,Car Accessories,,,
+581,655,pawn shop,,,
+582,656,Bath,,,
+583,657,Express Inn,,,
+584,658,CAR WASH,,,
+585,659,General merchandise,,,
+586,660,Real Estate Agents,,,
+587,661,securities company,,,
+588,662,post Office,,,
+589,663,SCHOOL,,,
+590,664,the University,,,
+591,665,dance,,,
+592,666,Parenting,,,
+593,667,Month Center,,,
+594,668,Museum of Traditional Chinese Medicine,,,
+595,669,Corporate,,,
+596,670,Telecom company,,,
+597,671,Travel,,,
+598,672,Parent-child's play,,,
+599,673,Personalized photo,,,
+600,674,Optical Shop,,,
+601,675,Star Hotels,,,
+602,676,Express,,,
+603,677,Logistics companies,,,
+604,678,Skills Training,,,
+605,679,Concert hall,,,
+606,680,Food company,,,
+607,681,Insurance company,,,
+608,682,car repair,,,
+609,683,fingerprint,,,
+610,684,City resident,,,
+611,685,family,,,
+612,686,model,,,
+613,687,Other operators,,,
+619,693,Resolution,,,
+622,696,Intelligent hardware,,,
+623,698,unknown,,,
+624,699,unknown,,,
+625,700,unknown,,,
+626,701,unknown,,,
+627,702,unknown,,,
+628,703,unknown,,,
+653,733,B Shares,,,
+655,735,N shares,,,
+659,739,Mixed Fund,,,
+660,740,Bond Fund,,,
+661,741,Capital Preservation Fund,,,
+662,742,QDII fund,,,
+663,743,Commodity Funds,,,
+665,745,Index Fund,,,
+666,746,Closed-end funds,,,
+670,750,Liability,,,
+673,753,Guaranteed income,,,
+674,754,Non-guaranteed income,,,
+684,764,Chattel trust,,,
+685,765,Real Estate Trust,,,
+686,766,Property Trust,,,
+687,767,Intellectual Property Trust,,,
+702,784,Higher risk,,,
+747,830,Pay,,,
+748,831,Not paid the fee,,,
+749,832,paid1,,,
+750,833,paid2,,,
+751,834,paid3,,,
+752,835,paid4,,,
+753,836,paid5,,,
+754,837,paid6,,,
+755,838,paid7,,,
+765,848,He slightly - Family Life Cycle,,,
+766,849,Youth House,,,
+767,850,the little sun,,,
+768,851,Three Generations of children,,,
+769,852,Middle-aged home,,,
+770,853,Empty nesters,,,
+792,875,Viewing preferences,,,
+793,876,physical education,,,
+794,877,health,,,
+795,878,Public class,,,
+796,879,military,,,
+797,880,Animation,,,
+798,881,Original,,,
+799,882,Wonderful,,,
+800,883,Olympic,,,
+801,884,entertainment,,,
+802,885,Children,,,
+803,886,advertising,,,
+804,887,microfilm,,,
+805,888,Funny,,,
+806,889,education,,,
+807,890,tourism,,,
+808,891,Fashion Arts,,,
+809,892,fashion,,,
+810,893,Mother,,,
+811,894,car,,,
+812,895,game,,,
+813,896,Trailer,,,
+814,897,life,,,
+815,898,the film,,,
+816,899,TV series,,,
+817,900,Science and Technology,,,
+818,901,Documentary,,,
+819,902,Arts,,,
+820,903,Lenovo Cooperation,,,
+821,904,Talk show,,,
+822,905,Finance and economics,,,
+823,906,Information,,,
+824,907,music,,,
+825,908,other,,,
+832,920,High-end business aviation,,,
+833,921,General Aviation,,,
+836,924,Airline Alliances,6.0,,
+837,925,airport,27.0,,
+840,928,Southeast Asia (aviation),227.0,,
+841,929,Japan and South Korea (Air),,,
+842,930,"Europe, the United States and Macao (aviation)",56.0,,
+843,931,"Hong Kong, Macao and Taiwan (aviation)",229.0,,
+859,947,"Hong Kong, Macao and Taiwan (Travel)",56.0,,
+873,965,unknown,,,
+874,966,BM,,,
+875,967,NS,,,
+887,979,Dice Game,,,
+893,985,Word games,,,
+895,987,effort,38.0,,
+897,989,Tomb,,,
+900,992,trickery,,,
+902,994,Journey,,,
+907,999,Martial arts,76.0,,
+908,1000,Domestic animation,6.0,,
+909,1001,Europe and Fantasy,,,
+910,1002,Harem,10.0,,
+912,1004,Finance,,,
